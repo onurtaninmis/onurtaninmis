@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Onur. I'm a freshman at Bilkent University.
+### Hi there 👋 My name is Onur. I'm a junior at Bilkent University.
 
 <!--
 **onurtaninmis/onurtaninmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
